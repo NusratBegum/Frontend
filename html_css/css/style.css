@@ -1,0 +1,109 @@
+ /* h1 {
+    color: chocolate;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {color: orange;
+}
+h2 {
+    color: red;
+}
+
+body {
+    background-color: #6a3bff;
+}  */
+
+/* body{
+    color: plum;
+    font-family: jazzier,Garamond,'Gill Sans', 'Gill Sans MT', 'Calibri8', 'Trebuchet MS', sans-serif;
+    font-size: 20px
+    
+    
+} */
+
+/* h2 {
+    color: #125674;
+}
+
+footer {
+    background-color: #667739;
+    color: #fffbbc;
+}
+
+header{
+    color: red;
+    text-align: center;    
+}
+
+a {
+    color: yellowgreen;
+    
+} */
+
+/* h2 {
+    color: #234da4;
+    text-align: end;
+} */
+
+/* 
+body{
+    font-family: sans-serif;
+    color: purple;
+} */
+
+
+/* Box model:
+
+*/
+
+
+h3{
+    font-size: 1.75rem;
+}
+
+a {
+   color: red;
+}
+
+a:visited {
+    color: rgb(191, 44, 93);
+}
+
+a:hover,
+a:focus-visible{
+    color: black;
+}
+
+section {
+    margin-block: 100px;
+}
+
+
+.teal-text{
+    color : #0b4aa5;
+
+
+}
+
+
+.teal-bg{
+    color: white;
+    border: #0b4a5a solid 10px;
+    background-color: #087a98;
+}
+
+.climber-bg{
+    background-image: url("../images/simple-steps.jpg");
+}
+
+::wrapper{
+
+}
+footer{
+    padding: 20px;
+    text-align: center;
+    background-color: #22466c;
+    color: #ffffff;
+    border: 10px #6E84cf solid;
+}
